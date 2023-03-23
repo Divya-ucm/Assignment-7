@@ -3,7 +3,7 @@
 Name: Divya Pothuru 
 NetworkId:DXP62920
 
-VIDEO-LINK:
+VIDEO-LINK: https://drive.google.com/file/d/1xyKfzf6QxDJY6mueZLu-ZMf1Bzxb2TV2/view?usp=share_link
 
 --> First we have had modified the image classification code, we have changed the input shape which in previous code they had provided the wrong values(3,32,32) changed to (32,32,3). Then it executed succesfully.
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/122486644/227105002-d2305c9a-693f-42b5-91aa-933cea3b01a3.png">
